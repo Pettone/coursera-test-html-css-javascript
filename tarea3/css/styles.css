@@ -1,0 +1,53 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: whitesmoke;
+}
+
+#header-nav{
+    background-color: gray;
+    border-radius: 1px;
+    border: 1px;
+    border-bottom-color: black;
+}
+
+#tag1 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+}
+
+#tag2 {
+    border: 1px;
+    border-color: black;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar{
+    border: 1px solid black;
+}
+
+#tag3{
+    color: black;
+}
+
+.bc{
+    background-color: thistle;
+}
+
+div#container {
+    position: relative;
+    background-color: gray;
+    border-color:black;
+    border: 10px solid white;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    padding: 10px;
+}
+
+#title-font{
+    font-family: cursive;
+    font-size: 40px;
+}
